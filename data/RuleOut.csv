@@ -1,0 +1,21 @@
+Subject,loss of appetite,fever,cough,fatigue,body aches/muscle pain,sore throat,diarrhoea,conjunctivities,headache,loss of taste or smell,difficulty breathing,chest pain or pressure,runny nose,new confusion,vomiting,Sneezing,chills, watery eyes,Hoarsness,disease
+a,0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,covid19
+b,1,1,1,0,1,1,0,0,1,1,0,1,0,0,0,0,1,0,1,covid19
+c,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,covid19
+d,0,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,covid19
+e,1,1,1,1,1,1,0,0,1,1,0,1,0,1,0,0,1,0,1,covid19
+g,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,1,covid19
+h,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,influenza
+i,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,influenza
+j,0,1,1,0,1,1,1,0,0,0,1,1,1,1,0,0,1,0,0,influenza
+k,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,cold
+l,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,allergy
+m,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,sinusitis
+n,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,cold
+o,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,cold
+p,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,allergy
+q,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,allergy
+r,,,,,,,,,,,,,,,,,,,,
+s,,,,,,,,,,,,,,,,,,,,
+t,,,,,,,,,,,,,,,,,,,,
+u,,,,,,,,,,,,,,,,,,,,
